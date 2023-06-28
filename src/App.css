@@ -1,0 +1,19 @@
+*
+{
+font-size:40px;
+}
+
+body
+{
+background-color: #af9cb1;
+}
+
+.err
+{
+color:red;
+}
+
+textarea
+{
+resize:none;
+}
